@@ -1,0 +1,17 @@
+body{
+    background-color: crimson;
+    height: 100vh;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.numeros{
+    display: flex;
+    flex-direction:column ;
+    gap:10px;
+}
